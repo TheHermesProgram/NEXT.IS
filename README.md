@@ -4,7 +4,7 @@ LUCERA V PERSONNEL REGISTRY – ACCESS LEVEL: [REDACTED]
 
 NAME: ███ █████████  
 ID CODE: 5D4E45584953  
-RANK: Systems Engineer  
+RANK: [REDACTED]
 CLEARANCE: Tier █
 
 DIVISION: Structural Integration Unit  
@@ -13,8 +13,8 @@ STATUS: [UNKNOWN]
 
 NOTES:
 - Assigned to [HERMES-ALPHA] diagnostics during [██/██/████]
-- Logged multiple after-hours access attempts to Payload Control  
-- Final communication timestamp: 03:11 AM — coincides with anomaly pulse (11.3 MHz)  
+- Logged multiple after-hours access attempts to [REDACTED]  
+- Final communication timestamp: [REDACTED]
 - Temporary override used: `NX-090-LOCKOUT`  
 - Unauthorized file creation detected: ████████.txt
 
